@@ -2,7 +2,7 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:clinic_app/controller/getfunctions.dart';
+import 'package:consulting_application/controller/getfunctions.dart';
 
 class Book extends StatefulWidget {
   const Book({super.key});

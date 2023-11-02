@@ -5,7 +5,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:clinic_app/controller/sharedpreferences.dart';
+import 'package:consulting_application/controller/sharedpreferences.dart';
 
 //String url = "http://192.168.1.21:9000/api/";
 String url = "http://127.0.0.1:8000/api/";

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:clinic_app/Screens/experts.dart';
-import 'package:clinic_app/models/expertsearch_model.dart';
+import 'package:consulting_application/Screens/experts.dart';
+import 'package:consulting_application/models/expertsearch_model.dart';
 
 class SearchExp extends StatefulWidget {
   const SearchExp({super.key});

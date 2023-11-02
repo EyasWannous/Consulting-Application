@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:clinic_app/controller/postfunctions.dart';
+import 'package:consulting_application/controller/postfunctions.dart';
 
 import 'package:flutter/material.dart';
 

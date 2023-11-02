@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:clinic_app/controller/getfunctions.dart';
+import 'package:consulting_application/controller/getfunctions.dart';
 import '../my_card.dart';
 import '../mydrawer.dart';
 

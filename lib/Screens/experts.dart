@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:clinic_app/Screens/search_exp.dart';
-import 'package:clinic_app/Screens/user_book.dart';
-import 'package:clinic_app/models/expertsearch_model.dart';
+import 'package:consulting_application/Screens/search_exp.dart';
+import 'package:consulting_application/Screens/user_book.dart';
+import 'package:consulting_application/models/expertsearch_model.dart';
 import '../controller/getfunctions.dart';
 import '../models/expertlist_model.dart';
 

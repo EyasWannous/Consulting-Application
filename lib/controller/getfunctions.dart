@@ -5,11 +5,11 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:intl/intl.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:clinic_app/controller/sharedpreferences.dart';
-import 'package:clinic_app/models/consultsforexpert_model.dart';
-import 'package:clinic_app/models/expertsearch_model.dart';
-import 'package:clinic_app/models/favexpertslist_model.dart';
-import 'package:clinic_app/models/myprofile_model.dart';
+import 'package:consulting_application/controller/sharedpreferences.dart';
+import 'package:consulting_application/models/consultsforexpert_model.dart';
+import 'package:consulting_application/models/expertsearch_model.dart';
+import 'package:consulting_application/models/favexpertslist_model.dart';
+import 'package:consulting_application/models/myprofile_model.dart';
 
 import '../Screens/user_homepage.dart';
 import '../models/consultsfromuser_model.dart';

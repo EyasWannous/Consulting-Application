@@ -1,4 +1,4 @@
-# clinic_app
+# consulting_application
 
 A new Flutter project.
 

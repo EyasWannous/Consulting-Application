@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:clinic_app/Screens/book.dart';
-import 'package:clinic_app/Screens/experts.dart';
-import 'package:clinic_app/models/expertprofilebyid_model.dart';
+import 'package:consulting_application/Screens/book.dart';
+import 'package:consulting_application/Screens/experts.dart';
+import 'package:consulting_application/models/expertprofilebyid_model.dart';
 import '../controller/getfunctions.dart';
 import '../my_container.dart';
 

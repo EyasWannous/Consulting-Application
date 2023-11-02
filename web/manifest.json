@@ -1,6 +1,6 @@
 {
-  "name": "clinic_app",
-  "short_name": "clinic_app",
+  "name": "consulting_application",
+  "short_name": "consulting_application",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",

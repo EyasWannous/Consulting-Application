@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:clinic_app/Locale/local.dart';
-import 'package:clinic_app/Screens/user_history.dart';
-import 'package:clinic_app/Screens/user_pending.dart';
+import 'package:consulting_application/Locale/local.dart';
+import 'package:consulting_application/Screens/user_history.dart';
+import 'package:consulting_application/Screens/user_pending.dart';
 import 'Screens/book.dart';
 import 'Screens/expert_homepage.dart';
 import 'Screens/expert_profile.dart';
